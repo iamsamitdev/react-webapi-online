@@ -1,19 +1,30 @@
 import { Route, Switch } from 'react-router-dom'
+import Dashboard from './pages/backend/dashboard/Dashboard'
+import Forgotpassword from './pages/forgotpassword/Forgotpassword'
 import Login from './pages/login/Login'
+import PageNotFound from './pages/pagenotfound/PageNotFound'
+import Register from './pages/register/Register'
 
-const routes = (
+const Routes = () => {
 
-    <Switch>
+    return (
 
-        {/* Frontend */}
-        <Route path="/" exact={true} component={Login} />
-        <Route path="/login" component={Login} />
-        {/* <Route path="/register" component={"register"} /> */}
+        <Switch>
 
-        {/* Backend */}
-        {/* <Route path="/backend/dashboard" component={"dashboard"} /> */}
+            {/* Frontend */}
+            <Route path="/" exact={true} component={Login} />
+            <Route path="/login" component={Login} />
+            <Route path="/register" component={Register} />
+            <Route path="/forgotpassword" component={Forgotpassword} />
 
-    </Switch>
-)
+            {/* Backend */}
+            <Route path="/backend/dashboard" component={Dashboard} />
 
-export default routes
+            <Route component={PageNotFound} />
+
+        </Switch>
+
+    )
+}
+
+export default Routes

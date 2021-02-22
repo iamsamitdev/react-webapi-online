@@ -1,10 +1,20 @@
 import AuthLayout from "../../components/layouts/auth/AuthLayout"
 import { Link } from "react-router-dom"
+import { useForm } from "react-hook-form"
 
 const Register = () => {
+
+  // การเรียกใช้งาน React Hook Form
+  const { register,handleSubmit,errors } = useForm()
+
+  // สร้างฟังก์ชันมารับข้อมูลจาก React hook form ไปใช้
+  const registerSubmit = (data, e) => {
+    console.log(data)
+  }
+
   return (
     <AuthLayout title="Register">
-      <form className="card p-4 col-md-4 my-form" onSubmit={() => {}}>
+      <form className="card p-4 col-md-4 my-form" onSubmit={handleSubmit(registerSubmit)}>
         <h3 className="text-center mb-4">ลงทะเบียน</h3>
 
         <div className="mb-3 row">
@@ -17,8 +27,9 @@ const Register = () => {
               className="form-control"
               id="fullname"
               name="fullname"
-              required
+              ref={register({required: true})}
             />
+            {errors.fullname && <p className="error">กรุณาป้อนชื่อก่อน</p>}
           </div>
         </div>
 
@@ -32,8 +43,9 @@ const Register = () => {
               className="form-control"
               id="email"
               name="email"
-              required
+              ref={register({required: true})}
             />
+            {errors.email && <p className="error">กรุณาป้อนอีเมล์ก่อน</p>}
           </div>
         </div>
 
@@ -47,8 +59,9 @@ const Register = () => {
               className="form-control"
               id="username"
               name="username"
-              required
+              ref={register({required: true})}
             />
+            {errors.username && <p className="error">กรุณาป้อนชื่อผู้ใช้ก่อน</p>}
           </div>
         </div>
 
@@ -62,8 +75,9 @@ const Register = () => {
               className="form-control"
               id="password"
               name="password"
-              required
+              ref={register({required: true})}
             />
+            {errors.password && <p className="error">กรุณาป้อนรหัสผ่านก่อน</p>}
           </div>
         </div>
 
@@ -76,6 +90,15 @@ const Register = () => {
               name="submit"
               id="submit"
               value="ลงทะเบียน"
+            />
+            &nbsp;&nbsp;
+            <input
+              type="reset"
+              className="btn btn-danger"
+              name="Reset"
+              id="reset"
+              value="ล้างข้อมูล"
+              
             />
           </div>
         </div>

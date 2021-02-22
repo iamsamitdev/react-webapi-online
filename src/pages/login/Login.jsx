@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import AuthLayout from "../../components/layouts/auth/AuthLayout"
-import {Link} from 'react-router-dom'
+import {Link, useHistory} from 'react-router-dom'
 import Swal from 'sweetalert2'
 
 const Login = () => {
@@ -8,6 +8,14 @@ const Login = () => {
     // สร้างตัวแปรแบบ State ไว้รับค่าจากฟอร์ม
     const [username, setUsername] = useState('')
     const [password, setPassword] = useState('')
+
+    // สร้างตัวแปรสำหรับเปลี่ยนหน้า
+    let history = useHistory()
+
+    // เช็คว่าถ้าล็อกอินแล้วให้ส่งไปหน้า Dashboard
+    if(localStorage.getItem('fullname') != null){
+        history.push('/backend/dashboard')
+    }
 
     // ฟังก์ชันการ Submit Form
     const handleSubmit = (e) => {
@@ -41,7 +49,9 @@ const Login = () => {
             }).then((result) => {
                 if (result.dismiss === Swal.DismissReason.timer) {
                     // ส่งไปหน้า Backend / Dashboard
-                    
+                    history.push('/backend/dashboard')
+                    // เก็บชื่อผู้ใช้ลง LocalStorage
+                    localStorage.setItem('fullname','สามิตร โกยม')
                 }
             })
 

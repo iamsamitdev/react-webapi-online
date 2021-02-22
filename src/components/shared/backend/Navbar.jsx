@@ -1,5 +1,22 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
+import {useHistory} from 'react-router-dom'
+
 const Navbar = () => {
+
+  // รับค่าตัวแปรจาก localstorage
+  let fullname = localStorage.getItem('fullname')
+
+  // สร้างตัวแปรสำหรับเปลี่ยนหน้า
+  let history = useHistory()
+
+  const logout = () =>{
+
+    localStorage.removeItem("fullname")
+    // ส่งกลับไปหน้า login
+    history.push('/login')
+
+  }
+
   return (
     <nav className="navbar navbar-expand navbar-light navbar-bg">
       <a className="sidebar-toggle d-flex">
@@ -215,9 +232,9 @@ const Navbar = () => {
               <img
                 src="../assets/img/avatars/avatar.jpg"
                 className="avatar img-fluid rounded mr-1"
-                alt="Charles Hall"
+                alt={fullname}
               />{" "}
-              <span className="text-dark">Charles Hall</span>
+              <span className="text-dark">{fullname}</span>
             </a>
             <div className="dropdown-menu dropdown-menu-right">
               <a className="dropdown-item" href="pages-profile.html">
@@ -237,7 +254,7 @@ const Navbar = () => {
                 Help Center
               </a>
               <div className="dropdown-divider" />
-              <a className="dropdown-item" href="#">
+              <a className="dropdown-item" href="#" onClick={logout}>
                 Log out
               </a>
             </div>

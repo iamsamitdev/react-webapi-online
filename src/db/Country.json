@@ -1,0 +1,2503 @@
+[
+   {
+      "name":"Albania",
+      "countryCode":"AL",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"ALL",
+         "currencyName":"Albanian Lek"
+      }
+   },
+   {
+      "name":"Algeria",
+      "countryCode":"DZ",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"DZD",
+         "currencyName":"Algerian Dinar"
+      }
+   },
+   {
+      "name":"Andorra",
+      "countryCode":"AD",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Anguilla",
+      "countryCode":"AI",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"Antigua & Barbuda",
+      "countryCode":"AG",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"Argentina",
+      "countryCode":"AR",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"ARS",
+         "currencyName":"Argentine Peso"
+      }
+   },
+   {
+      "name":"Aruba",
+      "countryCode":"AW",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"AWG",
+         "currencyName":"Aruban Florin"
+      }
+   },
+   {
+      "name":"Australia",
+      "countryCode":"AU",
+      "currencyCode":"AUD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"AUD",
+         "currencyName":"Australian Dollar"
+      }
+   },
+   {
+      "name":"Austria",
+      "countryCode":"AT",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Bahamas",
+      "countryCode":"BS",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BSD",
+         "currencyName":"Bahamian Dollar"
+      }
+   },
+   {
+      "name":"Bahrain",
+      "countryCode":"BH",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BHD",
+         "currencyName":"Bahraini Dinar"
+      }
+   },
+   {
+      "name":"Barbados",
+      "countryCode":"BB",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BBD",
+         "currencyName":"Barbadian Dollar"
+      }
+   },
+   {
+      "name":"Belgium",
+      "countryCode":"BE",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Belize",
+      "countryCode":"BZ",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BZD",
+         "currencyName":"Belize Dollar"
+      }
+   },
+   {
+      "name":"Bermuda",
+      "countryCode":"BM",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BMD",
+         "currencyName":"Bermudan Dollar"
+      }
+   },
+   {
+      "name":"Bolivia",
+      "countryCode":"BO",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BOB",
+         "currencyName":"Bolivian Boliviano"
+      }
+   },
+   {
+      "name":"Bosnia & Herzegovina",
+      "countryCode":"BA",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BAM",
+         "currencyName":"Bosnia-Herzegovina Convertible Mark"
+      }
+   },
+   {
+      "name":"Botswana",
+      "countryCode":"BW",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BWP",
+         "currencyName":"Botswanan Pula"
+      }
+   },
+   {
+      "name":"British Virgin Islands",
+      "countryCode":"VG",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"USD",
+         "currencyName":"US Dollar"
+      }
+   },
+   {
+      "name":"Bulgaria",
+      "countryCode":"BG",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"BGN",
+         "currencyName":"Bulgarian Lev"
+      }
+   },
+   {
+      "name":"Canada",
+      "countryCode":"CA",
+      "currencyCode":"CAD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"CAD",
+         "currencyName":"Canadian Dollar"
+      }
+   },
+   {
+      "name":"Cayman Islands",
+      "countryCode":"KY",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"KYD",
+         "currencyName":"Cayman Islands Dollar"
+      }
+   },
+   {
+      "name":"Chile",
+      "countryCode":"CL",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"CLP",
+         "currencyName":"Chilean Peso"
+      }
+   },
+   {
+      "name":"China",
+      "countryCode":"C2",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"CNY",
+         "currencyName":"Chinese Yuan"
+      }
+   },
+   {
+      "name":"Colombia",
+      "countryCode":"CO",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"COP",
+         "currencyName":"Colombian Peso"
+      }
+   },
+   {
+      "name":"Costa Rica",
+      "countryCode":"CR",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"CRC",
+         "currencyName":"Costa Rican Colón"
+      }
+   },
+   {
+      "name":"Croatia",
+      "countryCode":"HR",
+      "currencyCode":"USD",
+      "aliases":[
+         "Hrvatska"
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"HRK",
+         "currencyName":"Croatian Kuna"
+      }
+   },
+   {
+      "name":"Cyprus",
+      "countryCode":"CY",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Czech Republic",
+      "countryCode":"CZ",
+      "currencyCode":"CZK",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"Kč",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"CZK",
+         "currencyName":"Czech Republic Koruna"
+      }
+   },
+   {
+      "name":"Denmark",
+      "countryCode":"DK",
+      "currencyCode":"DKK",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"kr",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"DKK",
+         "currencyName":"Danish Krone"
+      }
+   },
+   {
+      "name":"Dominica",
+      "countryCode":"DM",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"Dominican Republic",
+      "countryCode":"DO",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"DOP",
+         "currencyName":"Dominican Peso"
+      }
+   },
+   {
+      "name":"Ecuador",
+      "countryCode":"EC",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"USD",
+         "currencyName":"US Dollar"
+      }
+   },
+   {
+      "name":"Egypt",
+      "countryCode":"EG",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EGP",
+         "currencyName":"Egyptian Pound"
+      }
+   },
+   {
+      "name":"El Salvador",
+      "countryCode":"SV",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"USD",
+         "currencyName":"US Dollar"
+      }
+   },
+   {
+      "name":"Estonia",
+      "countryCode":"EE",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Falkland Islands",
+      "countryCode":"FK",
+      "currencyCode":"GBP",
+      "aliases":[
+         "Malvinas"
+      ],
+      "currencySymbol":"£",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"FKP",
+         "currencyName":"Falkland Islands Pound"
+      }
+   },
+   {
+      "name":"Faroe Islands",
+      "countryCode":"FO",
+      "currencyCode":"DKK",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"kr",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"DKK",
+         "currencyName":"Danish Krone"
+      }
+   },
+   {
+      "name":"Fiji",
+      "countryCode":"FJ",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"FJD",
+         "currencyName":"Fijian Dollar"
+      }
+   },
+   {
+      "name":"Finland",
+      "countryCode":"FI",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"France",
+      "countryCode":"FR",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"French Guiana",
+      "countryCode":"GF",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"French Polynesia",
+      "countryCode":"PF",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XPF",
+         "currencyName":"CFP Franc"
+      }
+   },
+   {
+      "name":"Georgia",
+      "countryCode":"GE",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"GEL",
+         "currencyName":"Georgian Lari"
+      }
+   },
+   {
+      "name":"Germany",
+      "countryCode":"DE",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Gibraltar",
+      "countryCode":"GI",
+      "currencyCode":"GBP",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"£",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"GIP",
+         "currencyName":"Gibraltar Pound"
+      }
+   },
+   {
+      "name":"Greece",
+      "countryCode":"GR",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Greenland",
+      "countryCode":"GL",
+      "currencyCode":"DKK",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"kr",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"DKK",
+         "currencyName":"Danish Krone"
+      }
+   },
+   {
+      "name":"Grenada",
+      "countryCode":"GD",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"Guadeloupe",
+      "countryCode":"GP",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Guatemala",
+      "countryCode":"GT",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"GTQ",
+         "currencyName":"Guatemalan Quetzal"
+      }
+   },
+   {
+      "name":"Guyana",
+      "countryCode":"GY",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"GYD",
+         "currencyName":"Guyanaese Dollar"
+      }
+   },
+   {
+      "name":"Honduras",
+      "countryCode":"HN",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"HNL",
+         "currencyName":"Honduran Lempira"
+      }
+   },
+   {
+      "name":"Hong Kong SAR China",
+      "countryCode":"HK",
+      "currencyCode":"HKD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"HKD",
+         "currencyName":"Hong Kong Dollar"
+      }
+   },
+   {
+      "name":"Hungary",
+      "countryCode":"HU",
+      "currencyCode":"HUF",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"Ft",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"HUF",
+         "currencyName":"Hungarian Forint"
+      }
+   },
+   {
+      "name":"Iceland",
+      "countryCode":"IS",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"ISK",
+         "currencyName":"Icelandic Króna"
+      }
+   },
+   {
+      "name":"Indonesia",
+      "countryCode":"ID",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"IDR",
+         "currencyName":"Indonesian Rupiah"
+      }
+   },
+   {
+      "name":"Ireland",
+      "countryCode":"IE",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Italy",
+      "countryCode":"IT",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Jamaica",
+      "countryCode":"JM",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"JMD",
+         "currencyName":"Jamaican Dollar"
+      }
+   },
+   {
+      "name":"Japan",
+      "countryCode":"JP",
+      "currencyCode":"JPY",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"¥",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"JPY",
+         "currencyName":"Japanese Yen"
+      }
+   },
+   {
+      "name":"Jordan",
+      "countryCode":"JO",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"JOD",
+         "currencyName":"Jordanian Dinar"
+      }
+   },
+   {
+      "name":"Kazakhstan",
+      "countryCode":"KZ",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"KZT",
+         "currencyName":"Kazakhstani Tenge"
+      }
+   },
+   {
+      "name":"Kenya",
+      "countryCode":"KE",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"KES",
+         "currencyName":"Kenyan Shilling"
+      }
+   },
+   {
+      "name":"Latvia",
+      "countryCode":"LV",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Lesotho",
+      "countryCode":"LS",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"LSL",
+         "currencyName":"Lesotho Loti"
+      }
+   },
+   {
+      "name":"Liechtenstein",
+      "countryCode":"LI",
+      "currencyCode":"CHF",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"CHF",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"CHF",
+         "currencyName":"Swiss Franc"
+      }
+   },
+   {
+      "name":"Lithuania",
+      "countryCode":"LT",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Luxembourg",
+      "countryCode":"LU",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Malawi",
+      "countryCode":"MW",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"MWK",
+         "currencyName":"Malawian Kwacha"
+      }
+   },
+   {
+      "name":"Malaysia",
+      "countryCode":"MY",
+      "currencyCode":"MYR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"RM",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"MYR",
+         "currencyName":"Malaysian Ringgit"
+      }
+   },
+   {
+      "name":"Malta",
+      "countryCode":"MT",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Martinique",
+      "countryCode":"MQ",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Mauritius",
+      "countryCode":"MU",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"MUR",
+         "currencyName":"Mauritian Rupee"
+      }
+   },
+   {
+      "name":"Moldova",
+      "countryCode":"MD",
+      "currencyCode":"EUR",
+      "aliases":[
+         "Republic of Moldova"
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"MDL",
+         "currencyName":"Moldovan Leu"
+      }
+   },
+   {
+      "name":"Monaco",
+      "countryCode":"MC",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Montserrat",
+      "countryCode":"MS",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"Morocco",
+      "countryCode":"MA",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"MAD",
+         "currencyName":"Moroccan Dirham"
+      }
+   },
+   {
+      "name":"Mozambique",
+      "countryCode":"MZ",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"MZN",
+         "currencyName":"Mozambican Metical"
+      }
+   },
+   {
+      "name":"Netherlands",
+      "countryCode":"NL",
+      "currencyCode":"EUR",
+      "aliases":[
+         "Holland"
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Netherlands Antilles",
+      "countryCode":"AN",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"ANG",
+         "currencyName":"Netherlands Antillean Guilder"
+      }
+   },
+   {
+      "name":"New Caledonia",
+      "countryCode":"NC",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XPF",
+         "currencyName":"CFP Franc"
+      }
+   },
+   {
+      "name":"New Zealand",
+      "countryCode":"NZ",
+      "currencyCode":"NZD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"NZD",
+         "currencyName":"New Zealand Dollar"
+      }
+   },
+   {
+      "name":"Nicaragua",
+      "countryCode":"NI",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"NIO",
+         "currencyName":"Nicaraguan Córdoba"
+      }
+   },
+   {
+      "name":"Norway",
+      "countryCode":"NO",
+      "currencyCode":"NOK",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"kr",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"NOK",
+         "currencyName":"Norwegian Krone"
+      }
+   },
+   {
+      "name":"Oman",
+      "countryCode":"OM",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"OMR",
+         "currencyName":"Omani Rial"
+      }
+   },
+   {
+      "name":"Palau",
+      "countryCode":"PW",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"USD",
+         "currencyName":"US Dollar"
+      }
+   },
+   {
+      "name":"Panama",
+      "countryCode":"PA",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"PAB",
+         "currencyName":"Panamanian Balboa"
+      }
+   },
+   {
+      "name":"Paraguay",
+      "countryCode":"PY",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"PYG",
+         "currencyName":"Paraguayan Guarani"
+      }
+   },
+   {
+      "name":"Peru",
+      "countryCode":"PE",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"PEN",
+         "currencyName":"Peruvian Nuevo Sol"
+      }
+   },
+   {
+      "name":"Philippines",
+      "countryCode":"PH",
+      "currencyCode":"PHP",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"₱",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"PHP",
+         "currencyName":"Philippine Peso"
+      }
+   },
+   {
+      "name":"Poland",
+      "countryCode":"PL",
+      "currencyCode":"PLN",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"zł",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"PLN",
+         "currencyName":"Polish Zloty"
+      }
+   },
+   {
+      "name":"Portugal",
+      "countryCode":"PT",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Puerto Rico",
+      "countryCode":"PR",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"USD",
+         "currencyName":"US Dollar"
+      }
+   },
+   {
+      "name":"Qatar",
+      "countryCode":"QA",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"QAR",
+         "currencyName":"Qatari Rial"
+      }
+   },
+   {
+      "name":"Réunion",
+      "countryCode":"RE",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Romania",
+      "countryCode":"RO",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"RON",
+         "currencyName":"Romanian Leu"
+      }
+   },
+   {
+      "name":"Russia",
+      "countryCode":"RU",
+      "currencyCode":"RUB",
+      "aliases":[
+         "Russian Federation"
+      ],
+      "currencySymbol":"RUB",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"RUB",
+         "currencyName":"Russian Rouble"
+      }
+   },
+   {
+      "name":"San Marino",
+      "countryCode":"SM",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Saudi Arabia",
+      "countryCode":"SA",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"SAR",
+         "currencyName":"Saudi Riyal"
+      }
+   },
+   {
+      "name":"Senegal",
+      "countryCode":"SN",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XOF",
+         "currencyName":"West African CFA Franc"
+      }
+   },
+   {
+      "name":"Serbia",
+      "countryCode":"RS",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"RSD",
+         "currencyName":"Serbian Dinar"
+      }
+   },
+   {
+      "name":"Seychelles",
+      "countryCode":"SC",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"SCR",
+         "currencyName":"Seychellois Rupee"
+      }
+   },
+   {
+      "name":"Singapore",
+      "countryCode":"SG",
+      "currencyCode":"SGD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"SGD",
+         "currencyName":"Singapore Dollar"
+      }
+   },
+   {
+      "name":"Slovakia",
+      "countryCode":"SK",
+      "currencyCode":"EUR",
+      "aliases":[
+         "Slovak Republic"
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"Slovenia",
+      "countryCode":"SI",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"South Africa",
+      "countryCode":"ZA",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"ZAR",
+         "currencyName":"South African Rand"
+      }
+   },
+   {
+      "name":"South Korea",
+      "countryCode":"KR",
+      "currencyCode":"USD",
+      "aliases":[
+         "Korea, Republic of"
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"KRW",
+         "currencyName":"South Korean Won"
+      }
+   },
+   {
+      "name":"Spain",
+      "countryCode":"ES",
+      "currencyCode":"EUR",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"€",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"EUR",
+         "currencyName":"Euro"
+      }
+   },
+   {
+      "name":"St. Kitts & Nevis",
+      "countryCode":"KN",
+      "currencyCode":"USD",
+      "aliases":[
+         "Saint Kitts and Nevis"
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"St. Lucia",
+      "countryCode":"LC",
+      "currencyCode":"USD",
+      "aliases":[
+         "Saint Lucia"
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"St. Vincent & Grenadines",
+      "countryCode":"VC",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"XCD",
+         "currencyName":"East Caribbean Dollar"
+      }
+   },
+   {
+      "name":"Suriname",
+      "countryCode":"SR",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"SRD",
+         "currencyName":"Surinamese Dollar"
+      }
+   },
+   {
+      "name":"Sweden",
+      "countryCode":"SE",
+      "currencyCode":"SEK",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"kr",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"SEK",
+         "currencyName":"Swedish Krona"
+      }
+   },
+   {
+      "name":"Switzerland",
+      "countryCode":"CH",
+      "currencyCode":"CHF",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"CHF",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"CHF",
+         "currencyName":"Swiss Franc"
+      }
+   },
+   {
+      "name":"Taiwan",
+      "countryCode":"TW",
+      "currencyCode":"TWD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"NT$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"TWD",
+         "currencyName":"New Taiwan Dollar"
+      }
+   },
+   {
+      "name":"Thailand",
+      "countryCode":"TH",
+      "currencyCode":"THB",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"฿",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"THB",
+         "currencyName":"Thai Baht"
+      }
+   },
+   {
+      "name":"Trinidad & Tobago",
+      "countryCode":"TT",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"TTD",
+         "currencyName":"Trinidad & Tobago Dollar"
+      }
+   },
+   {
+      "name":"Turks & Caicos Islands",
+      "countryCode":"TC",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"USD",
+         "currencyName":"US Dollar"
+      }
+   },
+   {
+      "name":"United Arab Emirates",
+      "countryCode":"AE",
+      "currencyCode":"USD",
+      "aliases":[
+         "UAE"
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"AED",
+         "currencyName":"United Arab Emirates Dirham"
+      }
+   },
+   {
+      "name":"United Kingdom",
+      "countryCode":"GB",
+      "currencyCode":"GBP",
+      "aliases":[
+         "England",
+         "UK"
+      ],
+      "currencySymbol":"£",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"GBP",
+         "currencyName":"British Pound"
+      }
+   },
+   {
+      "name":"United States",
+      "countryCode":"US",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"USD",
+         "currencyName":"US Dollar"
+      }
+   },
+   {
+      "name":"Uruguay",
+      "countryCode":"UY",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"UYU",
+         "currencyName":"Uruguayan Peso"
+      }
+   },
+   {
+      "name":"Venezuela",
+      "countryCode":"VE",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"VEF",
+         "currencyName":"Venezuelan Bolívar"
+      }
+   },
+   {
+      "name":"Vietnam",
+      "countryCode":"VN",
+      "currencyCode":"USD",
+      "aliases":[
+         
+      ],
+      "currencySymbol":"$",
+      "supportedEntities":[
+         "PAYPAL"
+      ],
+      "paymentTypes":[
+         "PERSONAL",
+         "PURCHASE"
+      ],
+      "localCurrency":{
+         "currencyCode":"VND",
+         "currencyName":"Vietnamese Dong"
+      }
+   }
+]

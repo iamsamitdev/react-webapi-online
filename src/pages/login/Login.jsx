@@ -48,10 +48,12 @@ const Login = () => {
                 }
             }).then((result) => {
                 if (result.dismiss === Swal.DismissReason.timer) {
-                    // ส่งไปหน้า Backend / Dashboard
-                    history.push('/backend/dashboard')
                     // เก็บชื่อผู้ใช้ลง LocalStorage
                     localStorage.setItem('fullname','สามิตร โกยม')
+
+                     // ส่งไปหน้า Backend / Dashboard
+                    //  history.push('/backend/dashboard')
+                    window.location = '/backend/dashboard'
                 }
             })
 

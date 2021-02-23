@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import { useState, useEffect } from 'react'
-import BackendLayout from "../../../components/layouts/backend/BackendLayout"
 import api from '../../../services/productAPI'
 
 const Product = () => {
@@ -22,9 +21,10 @@ const Product = () => {
     }, [])
 
 
+    document.title = "Product | Smart Stock"
 
     return (
-        <BackendLayout title="Dashboard">
+        // <BackendLayout title="Dashboard">
         <div>
             <h1 className="h3 mb-3">Product List</h1>
             <div className="row">
@@ -38,8 +38,8 @@ const Product = () => {
                             <th>Name</th>
                             <th>Barcode</th>
                             <th>Price</th>
-                            <th>Date</th>
-                            <th>Manage</th>
+                            {/* <th>Date</th> */}
+                            <th style={{width:'130px', textAlign:'right'}}>Manage</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -50,8 +50,8 @@ const Product = () => {
                                     <td>{product.product_name}</td>
                                     <td>{product.product_barcode}</td>
                                     <td>{product.product_price}</td>
-                                    <td>{product.product_date}</td>
-                                    <td className="text-right" style={{width:'200px'}}>
+                                    {/* <td>{product.product_date}</td> */}
+                                    <td className="text-right">
                                         <a href="#" className="btn btn-sm btn-warning">Edit</a>&nbsp;
                                         <a href="#" className="btn btn-sm btn-danger">Delete</a>
                                     </td>
@@ -67,7 +67,6 @@ const Product = () => {
             </div>
             </div>
         </div>
-        </BackendLayout>
     )
 }
 

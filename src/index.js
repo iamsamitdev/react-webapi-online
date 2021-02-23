@@ -6,7 +6,7 @@ import './styles/custom.css'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename={'/reactapiapp'}>
+    <Router>
       <Routes />
     </Router>
   </React.StrictMode>,

@@ -16,7 +16,6 @@
     "sweetalert2": "^10.15.5",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "http://localhost/reactapiapp/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

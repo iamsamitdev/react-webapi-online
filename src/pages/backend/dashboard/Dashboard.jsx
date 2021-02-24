@@ -1,5 +1,9 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable no-undef */
 const Dashboard = () => {
-  document.title = " | Smart Stock"
+
+  document.title = "Dashboard | Smart Stock"
+
   return (
     <>
       <div className="row mb-2 mb-xl-3">

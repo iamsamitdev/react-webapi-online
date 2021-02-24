@@ -1,8 +1,9 @@
-import AuthLayout from "../../components/layouts/auth/AuthLayout"
 import { Link } from "react-router-dom"
 import { useForm } from "react-hook-form"
 
 const Register = () => {
+
+  document.title = "Register Password | Smart Stock"
 
   // การเรียกใช้งาน React Hook Form
   const { register,handleSubmit,errors } = useForm()
@@ -13,7 +14,6 @@ const Register = () => {
   }
 
   return (
-    <AuthLayout title="Register">
       <form className="card p-4 col-md-4 my-form" onSubmit={handleSubmit(registerSubmit)}>
         <h3 className="text-center mb-4">ลงทะเบียน</h3>
 
@@ -110,7 +110,6 @@ const Register = () => {
           </div>
         </div>
       </form>
-    </AuthLayout>
   )
 }
 

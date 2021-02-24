@@ -24,7 +24,6 @@ const Product = () => {
     document.title = "Product | Smart Stock"
 
     return (
-        // <BackendLayout title="Dashboard">
         <div>
             <h1 className="h3 mb-3">Product List</h1>
             <div className="row">

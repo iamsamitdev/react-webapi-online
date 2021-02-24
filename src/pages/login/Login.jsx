@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
-import AuthLayout from "../../components/layouts/auth/AuthLayout"
-import {Link, useHistory} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 import Swal from 'sweetalert2'
 
 const Login = () => {
@@ -9,12 +8,9 @@ const Login = () => {
     const [username, setUsername] = useState('')
     const [password, setPassword] = useState('')
 
-    // สร้างตัวแปรสำหรับเปลี่ยนหน้า
-    let history = useHistory()
-
     // เช็คว่าถ้าล็อกอินแล้วให้ส่งไปหน้า Dashboard
     if(localStorage.getItem('fullname') != null){
-        history.push('/backend/dashboard')
+        window.location = '/backend/dashboard'
     }
 
     // ฟังก์ชันการ Submit Form
@@ -52,7 +48,6 @@ const Login = () => {
                     localStorage.setItem('fullname','สามิตร โกยม')
 
                      // ส่งไปหน้า Backend / Dashboard
-                    //  history.push('/backend/dashboard')
                     window.location = '/backend/dashboard'
                 }
             })
@@ -70,8 +65,9 @@ const Login = () => {
         }
     }
 
+    document.title = "Login | Smart Stock"
+
     return (
-        <AuthLayout title="Login">
             <form className="card p-4 col-md-4 my-form" onSubmit={handleSubmit}>
 
                 <h3 className="text-center mb-4">เข้าสู่ระบบ</h3>
@@ -130,7 +126,6 @@ const Login = () => {
                 </div>
 
             </form>
-        </AuthLayout>
     )
 }
 

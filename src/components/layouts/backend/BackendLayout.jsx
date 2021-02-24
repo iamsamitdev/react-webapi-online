@@ -1,13 +1,11 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import DocumentTitle from 'react-document-title'
 import Footer from '../../shared/backend/Footer'
 import Navbar from '../../shared/backend/Navbar'
 import Sidebar from '../../shared/backend/Sidebar'
 
-const BackendLayout = ({children, title="Dashboard"}) => {
+const BackendLayout = ({children}) => {
 
     return (
-        <> 
             <div className="wrapper">
 
                 <Sidebar />
@@ -24,7 +22,6 @@ const BackendLayout = ({children, title="Dashboard"}) => {
                     <Footer />
                 </div>
             </div>
-        </>
     )
 }
 

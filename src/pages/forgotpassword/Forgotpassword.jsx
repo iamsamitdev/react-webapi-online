@@ -1,9 +1,10 @@
-import AuthLayout from "../../components/layouts/auth/AuthLayout"
 import { Link } from "react-router-dom"
 
 const Forgotpassword = () => {
+
+  document.title = "Forgot Password | Smart Stock"
+
   return (
-    <AuthLayout title="Forgot Password">
       <form className="card p-4 col-md-4 my-form" onSubmit={() => {}}>
         <h3 className="text-center mb-4">ลืมรหัสผ่าน</h3>
 
@@ -36,7 +37,6 @@ const Forgotpassword = () => {
           </div>
         </div>
       </form>
-    </AuthLayout>
   )
 }
 
